@@ -1,0 +1,21 @@
+This is the main page of the program:
+
+ 
+
+1-User need to login to use the system. Provided username=admin and password=admin.
+
+2-After successful login, user is asked to choose all the options we wish to use:
+
+User need to give input as option number (1 -5) to avail given function.
+
+       I: Add Camera and Locations :- User can add the locations and camera in that location.
+
+       II:Add Vehicle: User can register the vehicle.
+
+       III: Vehicle Movement :User can  add locations and camera though which vehicle passes .
+
+       IV: Generate Report : Generate report of all the vehicles and their movement in pdf.in current location.
+
+        V: Exit : Exit from the system
+        
+        
