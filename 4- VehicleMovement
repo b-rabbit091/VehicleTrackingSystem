@@ -1,0 +1,39 @@
+Vehicle Movement
+
+User  is asked to choose among the registered vehicle and already added locations(where cameras has also been installed)
+
+ 
+
+Flow :
+
+ 
+
+-User give vehicle no.
+
+-User give location from displayed available locations where vehicle has travelled. Ex: KT M
+
+-Then, user is asked , Ex: There are 5 cameras installed in KTM.
+
+Did the vehicle pass through C1(y/n)?.
+
+If yes :
+
+                Record all the cameras position ex: C1, C2 where vehicle has passed
+
+Will be asked for other remaining cameras
+
+-After all cameras locations has been asked for the given location, user is asked if the vehicle moved through other locations.
+
+                If yes:
+
+                                Follow steps as KTM
+
+                Else:
+
+                                Record all the movemens  in database.
+
+ 
+
+ 
+
+Table used: Vehicle_Movement
