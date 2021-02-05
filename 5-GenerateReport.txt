@@ -1,0 +1,7 @@
+Generate Report:
+
+ 
+
+If user want Report of all vehicles with their movement, user must press 5 in Index page.
+
+A report will be saved as repot.pdf in the current directory.
