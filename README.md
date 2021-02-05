@@ -22,3 +22,8 @@ VehicleMovement.java: Vehicle_Movement
 
 Frameworks: jdbc, itext7  
 
+----------------------------------------
+
+To run: 
+import vehicle movement tracking as a project.
+run index.java
