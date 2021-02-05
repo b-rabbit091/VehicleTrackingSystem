@@ -1,0 +1,17 @@
+Add Vehicle:
+
+User  is asked to register the vehicle.
+
+If given vehicle no is already added:
+
+                -give  unregistered vehicle no
+
+Else:
+
+                -add the vehicle and register number.
+
+ 
+
+Table used:
+
+Vehicles
