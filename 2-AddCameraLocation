@@ -1,0 +1,25 @@
+Add Camera Location:
+
+Here, User is asked to add locations. Locations should be provided in 3-digit code. Ex: Kathmandu as KTM.
+
+If location has not been added previously:
+
+                -Give Locations.
+
+                -How many cameras to be added(For simplicity  max 5)
+
+                -Then for given location, given number of cameras to be added
+
+                Ex : cameras to be added: 5
+
+                Then C1, C2,C3,C4,C5 cameras to be added for that locations
+
+Else:
+
+                -Give another Location
+
+Table used :
+
+Location3, Cameras
+
+
